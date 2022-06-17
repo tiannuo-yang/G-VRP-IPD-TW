@@ -27,7 +27,7 @@ Each instance mainly includes the following attributes:
 - "c_1": unit fuel cost
 - "c_2": unit passenger service cost
 - "c_3": unit vehicle fixed cost
-- "c_4": driver’s wage per mimute
+- "c_4": driver’s wage per minute
 - "phi_0"
 - "yita"
 - "omega"
