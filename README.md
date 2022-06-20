@@ -9,7 +9,9 @@ For more information, please refer to our paper:
 ## Background
 Multimodal transport synergistically integrates passenger and freight demand, easing the economic pressure on public transport operators by reducing transportation cost. However, the occurrence of on-demand service changes the nature of scheduling approach during the transportation. In our work, we propose a demand-driven passenger-and-freight-integration service mode (DDPFIS mode) according to the characteristics in rural areas and construct a Green Vehicle Routing Problem with Integrated Pickup and Delivery and Time Windows (G-VRP-IPD-TW) model to assist public transport operators in routing decisions. 
 
-This repository records the problem instances generated dedicated to the above problem, classified with 6 experiments in our work. The geographic data is collected in real-time in Longkou, China. We mainly generate 4 sets of instances (sizes of 8, 12, 16 and 20). Other settings could be seen in Section 5.1 in our paper.
+This repository records the problem instances generated dedicated to the above problem, classified with 6 experiments in our work. The geographic data is collected in real-time in Longkou, China. We mainly generate 4 sets of instances (sizes of 8, 12, 16 and 20). Other settings could be seen in Section 5.1 in our paper. 
+
+All numerical results are organized in file [```results.xlsx```](https://github.com/tiannuo-yang/G-VRP-IPD-TW/blob/main/results.xlsx). 
 
 ## Usage
 ### Naming Rule
