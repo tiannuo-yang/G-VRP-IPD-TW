@@ -11,7 +11,7 @@ Multimodal transport synergistically integrates passenger and freight demand, ea
 
 This repository records the problem instances generated dedicated to the above problem, classified with 6 experiments in our work. The geographic data is collected in real-time in Longkou, China. We mainly generate 4 sets of instances (sizes of 8, 12, 16 and 20). Other settings could be seen in Section 5.1 in our paper. 
 
-All numerical results are organized in file [```results.xlsx```](https://github.com/tiannuo-yang/G-VRP-IPD-TW/blob/main/results.xlsx). 
+All numerical results are organized in file [```results.xlsx```](https://github.com/tiannuo-yang/G-VRP-IPD-TW/raw/main/results.xlsx). 
 
 ## Usage
 ### Naming Rule
