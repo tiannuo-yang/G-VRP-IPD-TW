@@ -2,7 +2,8 @@
 This is a data repository of the generated instances for a *Green Vehicle Routing Problem with Integrated Pickup and Delivery and Time Windows* (G-VRP-IPD-TW) model. The geographic information data is collected in real time through [Amap](https://www.alibabacloud.com/zh/customers/autonavi) based on a county-level city in China.
 
 For more information, please refer to our [paper](https://doi.org/10.1016/j.seps.2023.101665).  
--- If you use this data in your scientific article, please cite our XXXX 2022 paper:  
+
+-- If you use this data in your scientific article, please cite our SEPS 2023 paper:  
 *Tiannuo Yang, Zhongzhu Chu, Bailin Wang. Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model. DOI:https://doi.org/10.1016/j.seps.2023.101665*
 
 
