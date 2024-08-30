@@ -4,7 +4,7 @@ This is a data repository of the generated instances for a *Green Vehicle Routin
 -- If you use this data in your scientific article, please cite our SEPS 2023 paper:  
 *Tiannuo Yang, Zhongzhu Chu, Bailin Wang. Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model. DOI: https://doi.org/10.1016/j.seps.2023.101665*
 
-Please refer to Section 4.3 of the paper for our proposed mathematical model.
+**Please refer to Section 4.3 of the paper for our proposed mathematical model.**
 
 ## Background
 Multimodal transport synergistically integrates passenger and freight demand, easing the economic pressure on public transport operators by reducing transportation cost. However, the occurrence of on-demand service changes the nature of scheduling approach during the transportation. In our work, we propose a demand-driven passenger-and-freight-integration service mode (DDPFIS mode) according to the characteristics in rural areas and construct a Green Vehicle Routing Problem with Integrated Pickup and Delivery and Time Windows (G-VRP-IPD-TW) model to assist public transport operators in routing decisions. 
